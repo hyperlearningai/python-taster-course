@@ -1,7 +1,7 @@
 # Initialise the wheels
 RingbitCar.init_wheel(AnalogPin.P1, AnalogPin.P2)
 
-# Define the custom instructions in a custom function
+# Perform custom instructions (indefinitely) - follow a light source
 def on_forever():
 
     # Check the light level using a comparison operator.
@@ -10,9 +10,9 @@ def on_forever():
     if input.light_level() > 40:
         RingbitCar.forward()
     else:
-        RingbitCar.turnleft()
+        RingbitCar.brake()
 
-# Run the function body continuously in an event-based forever loop
+# Run a given function body continuously in an event-based forever loop
 # Reference: https://makecode.microbit.org/reference/basic/forever
 basic.forever(on_forever)
 
