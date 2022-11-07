@@ -26,6 +26,7 @@ This free short taster course provides a fun and interactive introduction to bot
 * The ability to develop simple software applications in Python 3.
 * An understanding of basic computing concepts including basic data types, control flow and functions.
 * The ability to code and instruct a programmable robot to follow simple and advanced instructions including moving forwards and reversing, following black lines and routes, moving towards bright light sources, and automatically detecting and avoiding obstacles.
+* An awareness of some of the roles and career pathways available in order to embark upon a career in technology, data and artificial intelligence, including typical salary ranges, benefits and entry requirements.
 
 ## Further Information and Guidance
 
