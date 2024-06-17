@@ -1,7 +1,7 @@
 # Python Taster Course
 A fun and interactive introduction to both the Python programming language and basic computing concepts using programmable robots.
 
-![Python Taster Course](https://hlaicdn.com/sites/hyperlearning.ai/images/courses/course-python-taster-unsplash-v1-510845693b.jpg "Python Taster Course")
+![Python Taster Course](https://hyperlearning.ai/assets/images/courses/course-python-taster-unsplash-v1-510845693b.jpg "Python Taster Course")
 
 ## Course Website
 
@@ -30,7 +30,7 @@ This free short taster course provides a fun and interactive introduction to bot
 
 ## Further Information and Guidance
 
-For further information, please visit https://knowledgebase.hyperlearning.ai or contact the author of this course:
+For further information, please visit https://knowledgebase.hyperlearning.ai/courses/python-taster-course or contact the author of this course:
 
-* **Jillur Quddus**<br/>Chief Data Scientist and Principal Polyglot Software Engineer<br/>training@hyperlearning.ai
+* **Jillur Quddus**<br/>Chief Data Scientist and Principal Polyglot Software Engineer<br/>contactus@hyperlearning.ai
 
